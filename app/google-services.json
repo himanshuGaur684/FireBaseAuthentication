@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70541557894",
+    "project_id": "fire-base-authentication-3d655",
+    "storage_bucket": "fire-base-authentication-3d655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70541557894:android:6d0f38d9823a001a351107",
+        "android_client_info": {
+          "package_name": "gaur.himanshu.august.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70541557894-ag58rhh0b7gb76l62aq5l73jtaht81b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8E8D1plqcqSjzK7LNqcRpLxOYv9Qx-iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70541557894-ag58rhh0b7gb76l62aq5l73jtaht81b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
