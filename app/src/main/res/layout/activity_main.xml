@@ -61,6 +61,16 @@
             android:text="Register"
             android:textAllCaps="false" />
 
+
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/register_google"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="Register"
+            android:background="@android:color/darker_gray"
+            android:textAllCaps="false" />
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
